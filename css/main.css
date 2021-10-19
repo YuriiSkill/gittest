@@ -1,3 +1,7 @@
 body{
   background-color: royalblue;
 }
+p{
+  color:rgb(0, 0, 0);
+}
+h1{font-size: 50px;}
