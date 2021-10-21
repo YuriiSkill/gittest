@@ -5,3 +5,10 @@ p{
   color:rgb(0, 0, 0);
 }
 h1{font-size: 50px;}
+
+.button{
+  background-color:blue;
+  color:#000;
+  font-size: 16px;
+  padding: 10px 5px;  
+}
